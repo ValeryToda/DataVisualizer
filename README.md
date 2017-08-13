@@ -24,4 +24,4 @@ Feel free to download, compile and play around with it. Enjoy!
 
 ### Basic Qt Setup to successfully compile the project
 
-![alt text](https://github.com/ValeryToda/DataVisualizer/blob/master/QtInstallationSetup.png "Qt installation Setup")
+![alt Qt installation setup](./QtInstallationSetup.png)

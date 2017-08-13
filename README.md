@@ -14,5 +14,10 @@ Handy tool to visualize, perform data sanity check and export relevant data for 
 
 * DataVisualizer.app: MacOS executable file (QT 5.9; macOS Sierra)
 
-Feel free to download, [compile] and play around with it. Enjoy!
-  
+Feel free to download, compile and play around with it. Enjoy!
+
+### How to build the project
+
+* Download and install the latest Qt version from [here](https://info.qt.io/download-qt-for-application-development)
+* Download the project files
+* Open the project with the application Qt Creator and build it.
